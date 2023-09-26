@@ -1,6 +1,6 @@
 # Apuntes de Ciberseguridad en Linux
 
-¡Hola! Soy Alfonso, y este repositorio es mi esfuerzo por recopilar recursos y apuntes sobre ciberseguridad en el sistema operativo Linux. Estos recursos están diseñados para ser útiles en cualquier entorno y son adecuados para estudiantes de todos los niveles de experiencia.
+¡Hola! Soy Alfonso, y este repositorio es mi esfuerzo por recopilar recursos y apuntes sobre ciberseguridad en el sistema operativo Linux. Estos recursos están diseñados para ser útiles en un entorno universitario y son adecuados para estudiantes de todos los niveles de experiencia.
 
 ## Contenido
 
@@ -15,26 +15,22 @@ En este repositorio, encontrarás una variedad de recursos, incluyendo:
 
 Mi objetivo es proporcionar recursos que sean útiles para estudiantes de todos los niveles, desde principiantes hasta aquellos con experiencia en ciberseguridad. Los materiales se organizan de manera que puedas encontrar información relevante para tu nivel de habilidad.
 
-## Contribuciones
-
-Tu contribución es bienvenida y apreciada. Si tienes conocimientos que deseas compartir o notas errores en los materiales, no dudes en abrir una solicitud de extracción (pull request) o informarme de un problema (issue). Juntos, podemos hacer que estos apuntes sean aún más valiosos para la comunidad universitaria de ciberseguridad en Linux.
-
-## Licencia
-
-Este repositorio está bajo la licencia [LICENSE](LICENSE). Por favor, asegúrate de revisar y cumplir con los términos de la licencia al utilizar los materiales de este repositorio.
-
 ## Repositorio Compartido
 
-Además, te invito a explorar nuestro repositorio compartido con mi compañero Adrián. En [este enlace](https://github.com/adrianRodriguez123/notas_compartidas), encontrarás aún más información y recursos relacionados con ciberseguridad en Linux.
+Además, te invito a explorar nuestro repositorio compartido con mi compañero Adrián. En [este enlace](https://github.com/adrianRodriguez123/notas_compartidas), encontrarás aún más información y recursos relacionados con ciberseguridad en Linux. Juntos, estamos construyendo una comunidad de aprendizaje en esta emocionante área.
 
-## Para termninar
+## Creados con Obsidian
 
-Gran parte de la información recopilada en estos apuntes han sido sacados de la academia Hack4U. Muchas gracias al tito S4vitar por haberme abierto las puertas al gran mundo de la ciberseguridad.
+Todos los archivos de este repositorio han sido creados utilizando el editor de texto **Obsidian**. Te recomendamos descargar Obsidian y aprovechar sus características, incluida la vista gráfica en forma de grafo que interconecta todos los documentos. Esto te permitirá visualizar de manera más efectiva la estructura y relaciones entre los apuntes.
 
-- Enlace a su academia: https://hack4u.io/
-- Enlace a su Github: https://github.com/s4vitar
-- Enlace a su canal de Youtube: https://www.youtube.com/@s4vitar
+- Descarga Obsidian desde el [sitio oficial](https://obsidian.md/).
+
+## Reconocimientos
+
+Gran parte de la información recopilada en estos apuntes ha sido obtenida de la academia **Hack4U**. Agradezco enormemente al tito **S4vitar** por haberme abierto las puertas al gran mundo de la ciberseguridad.
+
+- Enlace a su academia: [Hack4U](https://hack4u.io/)
+- Enlace a su Github: [GitHub de S4vitar](https://github.com/s4vitar)
+- Enlace a su canal de Youtube: [Canal de Youtube de S4vitar](https://www.youtube.com/@s4vitar)
 
 Este documento ha sido realizado con la ayuda de ChatGpt.
-
-¡Gracias por visitar mi repositorio de apuntes de ciberseguridad en Linux! Espero que estos recursos sean de gran ayuda en tu camino hacia una comprensión más profunda de la seguridad informática en el entorno Linux.
