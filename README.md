@@ -23,6 +23,10 @@ Tu contribución es bienvenida y apreciada. Si tienes conocimientos que deseas c
 
 Este repositorio está bajo la licencia [LICENSE](LICENSE). Por favor, asegúrate de revisar y cumplir con los términos de la licencia al utilizar los materiales de este repositorio.
 
+## Repositorio Compartido
+
+Además, te invito a explorar nuestro repositorio compartido con mi compañero Adrián. En [este enlace](https://github.com/adrianRodriguez123/notas_compartidas), encontrarás aún más información y recursos relacionados con ciberseguridad en Linux.
+
 ## Para termninar
 
 Gran parte de la información recopilada en estos apuntes han sido sacados de la academia Hack4U. Muchas gracias al tito S4vitar por haberme abierto las puertas al gran mundo de la ciberseguridad.
