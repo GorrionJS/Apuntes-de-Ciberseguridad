@@ -6,10 +6,7 @@
 
 En este repositorio, encontrarás una variedad de recursos, incluyendo:
 
-- Documentación detallada y tutoriales paso a paso sobre temas de ciberseguridad en Linux.
-- Herramientas y scripts prácticos para evaluar y mejorar la seguridad en sistemas Linux.
 - Referencias a recursos externos para aquellos que desean profundizar en el tema.
-- Ejemplos de configuraciones recomendadas para la seguridad en servidores y estaciones de trabajo Linux.
 
 ## Niveles de Conocimiento
 
@@ -32,5 +29,3 @@ Gran parte de la información recopilada en estos apuntes ha sido obtenida de la
 - Enlace a su academia: [Hack4U](https://hack4u.io/)
 - Enlace a su Github: [GitHub de S4vitar](https://github.com/s4vitar)
 - Enlace a su canal de Youtube: [Canal de Youtube de S4vitar](https://www.youtube.com/@s4vitar)
-
-Este documento ha sido realizado con la ayuda de ChatGpt.
